@@ -176,7 +176,7 @@ harmful. That’s why we’ve established this policy. If you have an account wi
 any of our products, you can’t use them for any of the restricted purposes
 listed below. If we find out you are, we will take action.
 
-## Restricted purposes
+### Restricted purposes
 
 * **Child exploitation, sexualization, or abuse**: We don’t tolerate any
   activities that create, disseminate, or otherwise cause child abuse. Keep
@@ -215,7 +215,7 @@ listed below. If we find out you are, we will take action.
 We’ve outlined these restrictions to be clear about what we won’t stand for.
 That said, this list is by no means exhaustive. We will make changes over time.
 
-## How to report abuse
+### How to report abuse
 
 See someone using one of our products for one of the restricted purposes? Let
 us know by emailing [help@finalgravity.co](mailto:help@finalgravity.co) and we
