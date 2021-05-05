@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: December 11, 2020. [commit](https://github.com/fgco/policies/commit/main)*
+*Last updated: May 5, 2021. [commit](https://github.com/fgco/policies/commit/main)*
 
 > Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
@@ -69,9 +69,13 @@ We do not use third-party web analytics scripts on our websites.
 
 ### Cookies and Do Not Track
 
-We do not use any cookies. To store neccessary information about your session,
-we use the session storage of your browser. This is persistent only as long as
-you keep the tab open. It is not shared with other tabs.
+We do use persistent first-party cookies and local storage to store certain
+preferences, make it easier for you to use our applications, and support some
+in-house analytics. A cookie is a piece of text stored by your browser to help
+it remember your login information, site preferences, and more. You can adjust
+cookie retention settings in your own browser. To learn more about cookies,
+including how to view which cookies have been set and how to manage and delete
+them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 At this time, our sites and applications do not respond to Do Not Track beacons
 sent by browser plugins.
